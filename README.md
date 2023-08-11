@@ -1,5 +1,5 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)]
-<h1 align="center">Hi 👋, I'm Channleap</h1>
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+<h1 align="center">Bonjour 👋, I'm Channleap</h1>
 <h3 align="center">Currently is a Data Science 4th-year student - AI & Machine Learning.</h3>
 <img align = "right" alt = "Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHSxx5X93l2zQ/feedshare-shrink_2048_1536/0/1660142294971?e=2147483647&v=beta&t=CnoW2xcLLKyXytdXHJ0cmuHpRpXMioanNi5hnh7B9q0">
 - 🌱 I’m currently learning **Machine learning, Program for data science**
