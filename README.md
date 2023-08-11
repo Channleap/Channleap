@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://fb.com/chann leap long](https://www.facebook.com/chan.leapbbt?mibextid=LQQJ4d)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chann leap long" height="30" width="40" /></a>
+<a href="https://fb.com/Chann Leap Long" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chann Leap Long" height="30" width="40" /></a>
 <a href="https://instagram.com/chann_leap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chann_leap" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/channleap official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channleap official" height="30" width="40" /></a>
 </p>
